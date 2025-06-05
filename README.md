@@ -1,12 +1,12 @@
-# EU-Store_sales-Power_BI
+# EU-Store sales Power BI
 
-Introduction
+## Introduction
 
 This Power BI project presents a comprehensive sales analysis for a Superstore business. The dashboard provides key insights into various aspects of the store's performance, including total sales, profit, customer count, and discount distributions across different regions and product sub-categories.
 
 
 
-Key Highlights:
+## Key Highlights:
 
 Total Sales reached around 1.34 million, compared to a target of 2.69 million.
 Profit earned is about 163.11K, showing good business performance.
